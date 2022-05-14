@@ -1,2 +1,2 @@
-# olamijulo2
+# Olamijulo2
  Full-Stack Developer
